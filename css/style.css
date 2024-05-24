@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,500;1,500&display=swap');
+
+body{
+    font-family: 'Montserrat',sans-serif;
+    background-color: #111111;
+}
+
+.navbar{
+    background-color: #111111;
+}
+
+.navbar .navbar-brand{
+    color: azure;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.navbar .navbar-nav .nav-item a{
+    opacity: 0.8;
+    color: azure;
+    font-size: 20px;
+    font-weight: 300;
+    margin-left: 25px;
+}
+
+.navbar .navbar-nav .nav-item a:hover{
+    color: cornflowerblue;
+}
+.cc{    
+    
+}
+.cc h2{
+    background-image: linear-gradient(to right,#0000ff,#41adff);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    margin-top: 100px;
+    margin-right: 400px;
+}
+
+.scroll-container {
+    overflow: auto;
+    white-space: nowrap;
+    padding: 10px;
+}
+  
+  div.scroll-container img {
+    padding: 10px;
+}
+
+.landing-sec{
+    height: 100vh;
+    margin-top: 120px;
+}
+
+.landing-sec h3{
+    color: #fafafa;
+    font-size: 30px;
+    font-weight: 450;
+}
+.landing-sec h1{
+    color: #fafafa;
+    font-size: 60px;
+    font-weight: 600;
+}
+.landing-sec h1 span{
+    background-image: linear-gradient(to right,#0000ff,#41adff);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+.landing-sec p{
+    color: #a1a1a1;
+    font-size: 20px;
+    font-weight: 200;
+}
+.landing-sec .btn{
+    background-image: linear-gradient(to right,#0000ff,#41adff);
+    color: #fafafa;
+    font-weight: 200;
+    height: 40px;
+    width: 100px;
+    border-radius: 15px;
+}
+.Aboutsec{
+    padding-top: 50px;
+}
+.Aboutsec h1{
+    font-size: 65px;
+    font-weight: 400;
+    background-image: linear-gradient(to right,#0000ff,#41adff);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    color: #fafafa;
+
+}
+
+.Aboutsec h2{
+    font-size: 45px;
+    font-weight: 300;
+    color: #f9f9f9;
+}
+
+.Aboutsec h3{
+    font-size: 30px;
+    font-weight: 200;
+    color: #a1a1a1;
+}
+
+.Aboutsec p{
+    color: #f9f9f9;
+    font-size: 15px;
+}
+
+.Aboutsec table td{
+    font-size: 20px;
+    font-weight: 400;
+    color: #f9f9f9;
+}
+
+.Aboutsec table td span{
+    color: #f9f9f9;
+}
+
+.Aboutsec img{
+    margin-left: 200px;
+}
+.footer h3{
+    color: #f9f9f9;
+    margin-bottom: 25px;
+    background-image: linear-gradient(to bottom,#f9f9f9,#808080);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    font-size: 20px;
+    font-weight: 600;
+}
+.footer i{
+    font-size: 45px;
+    color: #a1a1a1;
+    padding-left: 35px;
+    padding-right: 35px;
+    margin-bottom: 30px;
+}
+.footer i:hover{
+    color: #fafafa;
+}
+.footer h5{
+    color: #a1a1a1;
+    font-size: 15px;
+    font-weight: 500;
+    margin-bottom: 25px;
+}
